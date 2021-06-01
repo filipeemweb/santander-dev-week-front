@@ -5,6 +5,7 @@
     "ng": "ng",
     "start": "ng serve --o",
     "build": "ng build",
+    "deploy": "ng deploy --base-href=https://filipeemweb.github.io/santander-dev-week-front/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
